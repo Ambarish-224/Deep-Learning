@@ -25,3 +25,17 @@
         🔴L1 L2 Regularization
         🔴Drop- Out and Monte Carlo Drop Out
     
+3. Tensorflow
+
+        🔴Overview of Tensorflow
+        🔴Custom Loss Function
+        🔴Custom Activation Functions, Regularizers and Constraints
+        🔴Custom Metrics
+        🔴Custom Layer
+        🔴Custom Models
+        🔴Computing Gradients using AutoDiff and Custom Training Loops
+        🔴Data API
+        🔴Chain Transformations
+        🔴Shuffling the Data
+        🔴TF Records
+        🔴Features API
