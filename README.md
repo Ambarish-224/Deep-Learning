@@ -39,3 +39,20 @@
         🔴Shuffling the Data
         🔴TF Records
         🔴Features API
+
+4. Convolutional Neural Networks
+
+        🔴Introduction
+        🔴AlexNet
+        🔴Project on AlexNet
+        🔴GoogleNet
+        🔴VGGNet- Basics
+        🔴ResNet-50
+        🔴ResNet 50 Project
+        🔴Xception
+        🔴Xception Project
+        🔴SE Net
+        🔴Transfer Learning
+        🔴Object Detection
+        🔴YOLO
+        🔴Semantic Segmentation
