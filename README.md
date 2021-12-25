@@ -1,15 +1,12 @@
 # Deep-Learning
 🔴Deep Learning Introduction
-🔴Neural Networks - MLP's
-🔥Project - Image Classsification using Neural Network
-🔥Project - IMDB Sentiment Analysis
-🔴Convolutional Neural Networks
-🔴Training - Data Loaders, Augmentation, Colab
-🔥Project - COVID Detection using CNN
-🔴CNN Case Studies
-🔴Digging Deeper into Convnets
-🔴Transfer Learning
-🔴Markov Chains for Text Generation (NLP)
+🔴Types of Neural Networks
+🔴Multilayer Perceptron and Backpropagation
+🔴Keras Basic Regression Project
+🔴Keras Basic Classification Project
+🔴Tensorboard
+🔴Fine Tuning Hyper-Parameters
+🔴Vanishing/ Exploding Gradient Problem
 🔴Recurrent Neural Networks
 🔴Word Embeddings - Word2Vec
 🔴Project - Emoji Prediction
