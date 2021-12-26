@@ -2,8 +2,8 @@
 
 1. Deep Learning Introduction
 
-        🔴1.1 Deep Learning Introduction
-        🔴1.2 Types of Neural Networks
+       ✅1.1 Deep Learning Introduction
+       ✅1.2 Types of Neural Networks
         🔴1.3 Multilayer Perceptron and Backpropagation
         🔴1.4 Keras Basic Regression Project
         🔴1.5 Keras Basic Classification Project
