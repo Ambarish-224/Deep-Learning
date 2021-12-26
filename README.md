@@ -2,28 +2,28 @@
 
 1. Deep Learning Introduction
 
-        🔴Deep Learning Introduction
-        🔴Types of Neural Networks
-        🔴Multilayer Perceptron and Backpropagation
-        🔴Keras Basic Regression Project
-        🔴Keras Basic Classification Project
-        🔴Tensorboard
-        🔴Fine Tuning Hyper-Parameters
+        🔴1.1 Deep Learning Introduction
+        🔴1.2 Types of Neural Networks
+        🔴1.3 Multilayer Perceptron and Backpropagation
+        🔴1.4 Keras Basic Regression Project
+        🔴1.5 Keras Basic Classification Project
+        🔴1.6 Tensorboard
+        🔴1.7 Fine Tuning Hyper-Parameters
  2. Training Deep Neural Networks 
  
-        🔴Vanishing/ Exploding Gradient Problem
-        🔴Non- Saturating Activation Functions
-        🔴Batch Normalization
-        🔴Gradient Clipping
-        🔴Reusing Pretrained Layer
-        🔴Faster Optimizers
-        🔴Momentum Optimizers
-        🔴Ada Grad
-        🔴RMS Propagation
-        🔴Adam and Nadam Propagation
-        🔴Learning Rate Scheduling
-        🔴L1 L2 Regularization
-        🔴Drop- Out and Monte Carlo Drop Out
+        🔴2.1 Vanishing/ Exploding Gradient Problem
+        🔴2.2 Non- Saturating Activation Functions
+        🔴2.3 Batch Normalization
+        🔴2.4 Gradient Clipping
+        🔴2.5 Reusing Pretrained Layer
+        🔴2.6 Faster Optimizers
+        🔴2.7 Momentum Optimizers
+        🔴2.8 Ada Grad
+        🔴2.9 RMS Propagation
+        🔴2.10 Adam and Nadam Propagation
+        🔴2.11 Learning Rate Scheduling
+        🔴2.12 L1 L2 Regularization
+        🔴2.13 Drop- Out and Monte Carlo Drop Out
     
 3. Tensorflow
 
