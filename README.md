@@ -5,8 +5,8 @@
        ✅1.1 Deep Learning Introduction
        ✅1.2 Types of Neural Networks
        ✅1.3 Multilayer Perceptron and Backpropagation
-        🔴1.4 Keras Basic Regression Project
-        🔴1.5 Keras Basic Classification Project
+       ✅1.4 Keras Basic Regression Project - California Housing
+        🔴1.5 Keras Basic Image Classification Project - Dog and Cat
         🔴1.6 Tensorboard
         🔴1.7 Fine Tuning Hyper-Parameters
         
