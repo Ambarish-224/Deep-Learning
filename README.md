@@ -6,9 +6,8 @@
        ✅1.2 Types of Neural Networks
        ✅1.3 Multilayer Perceptron and Backpropagation
        ✅1.4 Keras Basic Regression Project - California Housing
-        🔴1.5 Keras Basic Image Classification Project - Fashion MNIST
-        🔴1.6 Tensorboard
-        🔴1.7 Fine Tuning Hyper-Parameters
+       ✅1.5 Keras Basic Image Classification Project - Fashion MNIST
+        🔴1.6 Fine Tuning Hyper-Parameters
         
  2. Training Deep Neural Networks 
  
