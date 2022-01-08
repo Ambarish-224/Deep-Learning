@@ -13,7 +13,7 @@
  
         🔴2.1 Vanishing/ Exploding Gradient Problem
         🔴2.2 Non- Saturating Activation Functions
-       ✅2.3 Batch Normalization
+        ✅2.3 Batch Normalization
         🔴2.4 Gradient Clipping
         🔴2.5 Reusing Pretrained Layer
         🔴2.6 Faster Optimizers
